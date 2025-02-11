@@ -20,4 +20,13 @@ Este projeto utiliza o **Raspberry Pi Pico (RP2040)** para controlar um **servo 
 - **Frequência do PWM:** **50 Hz** (período de **20 ms**)  
 - **Duty cycle ajustável:** Varia de **2,5% a 12%** para controlar a posição do servo  
 - **Resolução do PWM:** Baseada no valor de contagem de **9999**  
-- **Pino de controle do servo:** **GPIO 22**  
+- **Pino de controle do servo:** **GPIO 22**
+
+  ### Aluno
+**Andrei Luiz da Silva Rodrigues**
+
+### Matrícula
+**TIC370100444**
+
+### Link do video apresentando o projeto:
+https://www.youtube.com/watch?si=bK9tC_N6PCI1Wj2H&v=8UMlDcmbeFE&feature=youtu.be
